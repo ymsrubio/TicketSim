@@ -47,3 +47,7 @@ data/*.xlsx
 htmlcov/
 .mypy_cache/
 .ruff_cache/
+
+# Agents
+.agents/
+skills-lock.json
