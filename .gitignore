@@ -51,3 +51,6 @@ htmlcov/
 # Agents
 .agents/
 skills-lock.json
+.scratch/
+.learning/
+.notes/
